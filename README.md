@@ -36,7 +36,9 @@ Por ejemplo, el texto "Hola mundo" se encriptará como "Hoberlai mufatndober".
 
 <h2 align="center">Versión tablet:</h2>
 
-
+![Tablet](https://github.com/user-attachments/assets/9ffc6bc3-6963-4b92-958a-1ddfc9bd0f1e)
 
 <h2 align="center">Versión movíl:</h2>
+
+![Movil](https://github.com/user-attachments/assets/732117bb-a557-4325-8b4c-3ab7fed0bc0e)
 
