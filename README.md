@@ -30,4 +30,13 @@ Por ejemplo, el texto "Hola mundo" se encriptará como "Hoberlai mufatndober".
 
 ## Despliegue
 
+<h2 align="center">Versión Desktop:</h2>
+
+![Deskpot](https://github.com/user-attachments/assets/4994686b-73a9-489f-ac65-d84c760144ce)
+
+<h2 align="center">Versión tablet:</h2>
+
+
+
+<h2 align="center">Versión movíl:</h2>
 
